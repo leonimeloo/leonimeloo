@@ -11,5 +11,3 @@ I'm Leoni, a full stack developer specializing in creating innovative and effici
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,cs,java,spring,aws,postgresql,mysql,kubernetes,docker,git,gcp,redis,react,angular,mongodb,flutter,html,css,nodejs)](https://skillicons.dev)
-
-<img alt="Profile Views" style="display: none" src="https://komarev.com/ghpvc/?username=leonimeloo&color=blue"/>
