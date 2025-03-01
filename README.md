@@ -1,21 +1,15 @@
-## Hi there 👋
+#  Hi there 👋
 
-### About Me:
-* 🙋‍♂️ I'm Leoni
-* 🤠 19 y.o
-* 🏠 Brazilian
-* 💻 I like learn coding and other tech related stuff
-* 🤔 I still need a lot of experience
-* 🤍 I like pets and listen to music 
-* 📫 Reach me via [instagram](https://instagram.com/leonimeloo)
+**`Full Stack Developer`**
 
-**📚 I'm current learning:**
-- Javascript
-- C#
-- Python
-___
-### My Github Stats 📊
+I'm Leoni, a full stack developer specializing in creating innovative and efficient digital solutions. I have worked on development and strategic communication for projects with major companies such as B3, Wilson Sons, and AES Brasil, combining data analysis, process automation, and task reduction to deliver digital solutions focused on process optimization and value generation. In addition, I always looking to improve my skills and problem-solving by learning news technologies, updates and programming logic.
 
-  <img alt="Leoni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leonimeloo&show_icons=true&theme=dark&show_owner=true"/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonimeloo&theme=dark&layout=compact"/>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=leonimeloo&color=blue"/>
+
+---
+
+### 🧰 Languages and Tools
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,spring,aws,postgresql,mysql,kubernetes,docker,git,gcp,redis,react,angular,mongodb,flutter,html,css,nodejs)](https://skillicons.dev)
+
+<img alt="Profile Views" style="display: none" src="https://komarev.com/ghpvc/?username=leonimeloo&color=blue"/>
