@@ -18,6 +18,9 @@ I'm Leoni, a technology enthusiast with a strong background in Full Stack develo
   <a href="https://www.credly.com/badges/8f21d363-7814-4d82-a7f7-c2a2ad47ac89/public_url" title="View credential" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="100px">
   </a>
+  <a href="https://www.credly.com/badges/5ca3a461-75cc-462a-a1af-a9e4d4d0c2e6/public_url" title="View credential" target="_blank">
+    <img src="https://images.credly.com/images/ed8c832e-b100-4ab8-8864-2fddb2e87b04/blob" alt="AWS Certified AI Business Strategist" width="100px">
+  </a>
   <a href="https://www.credly.com/badges/375ff397-f65b-4a67-981e-290bf6eaec09/public_url" title="View credential" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100px">
   </a>
