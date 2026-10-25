@@ -1,8 +1,12 @@
 #  Hi there 👋
 
-**`Software Engineering`**
+**`Software Engineering | Cloud Application Architect | 5x AWS Certified`**
 
-I'm Leoni, a technology enthusiast with a strong background in Full Stack development, currently transitioning into cloud application development as a Cloud Application Architect. I'm also an undergraduate student in Science and Technology at the Federal University of ABC (UFABC). I have worked on development and strategic communication for projects with major companies such as Brazilian Stock Exchange (B3 - Brazil, Bolsa, Balcão), combining data analysis, process automation, and task reduction to deliver digital solutions focused on process optimization and value generation. In addition, I always looking to improve my skills and problem-solving by exploring new technologies, staying up to date with industry trends and strengthening my programming logic.
+I'm Leoni, a Cloud Application Architect and Software Engineer focused on designing and developing scalable cloud solutions. I help large organizations adopt cloud technologies, modernize their applications, and build reliable digital products — especially solutions powered by Generative AI.
+
+With a background in Full Stack development, I combine software engineering, cloud architecture, data analysis, and process automation to solve complex business challenges and deliver measurable value. I have contributed to development and strategic communication projects for a major stock exchange, a Fortune 500 financial institution, a global logistics company, a leading energy company and more.
+
+I'm also an undergraduate student in Computer Science at the Federal University of ABC (UFABC) and hold five AWS certifications. I continuously explore new technologies, follow industry trends, and strengthen my problem-solving skills.
 
 
 ---
@@ -14,17 +18,37 @@ I'm Leoni, a technology enthusiast with a strong background in Full Stack develo
 
 ### 🎓 Certifications
 
-<p>
-  <a href="https://www.credly.com/badges/8f21d363-7814-4d82-a7f7-c2a2ad47ac89/public_url" title="View credential" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect - Associate" width="100px">
-  </a>
-  <a href="https://www.credly.com/badges/5ca3a461-75cc-462a-a1af-a9e4d4d0c2e6/public_url" title="View credential" target="_blank">
-    <img src="https://images.credly.com/images/ed8c832e-b100-4ab8-8864-2fddb2e87b04/blob" alt="AWS Certified AI Business Strategist" width="100px">
-  </a>
-  <a href="https://www.credly.com/badges/375ff397-f65b-4a67-981e-290bf6eaec09/public_url" title="View credential" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="100px">
-  </a>
-  <a href="https://www.credly.com/badges/b510b37f-1db3-4a7e-85db-cb854ed0629b/public_url" title="View credential" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100px">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ede51498-f030-46e0-ba9a-2148aacc46f1/public_url" title="View credential" target="_blank">
+        <img src="./badges/dva.png" alt="AWS Certified Developer - Associate" width="100px"><br>
+        <sub><b>AWS Certified Developer - Associate</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/8f21d363-7814-4d82-a7f7-c2a2ad47ac89/public_url" title="View credential" target="_blank">
+        <img src="./badges/saa.png" alt="AWS Certified Solutions Architect - Associate" width="100px"><br>
+        <sub><b>AWS Certified Solutions Architect - Associate</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/5ca3a461-75cc-462a-a1af-a9e4d4d0c2e6/public_url" title="View credential" target="_blank">
+        <img src="./badges/aib.png" alt="AWS Certified AI Business Strategist" width="100px"><br>
+        <sub><b>AWS Certified AI Business Strategist</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/375ff397-f65b-4a67-981e-290bf6eaec09/public_url" title="View credential" target="_blank">
+        <img src="./badges/aif.png" alt="AWS Certified AI Practitioner" width="100px"><br>
+        <sub><b>AWS Certified AI Practitioner</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/b510b37f-1db3-4a7e-85db-cb854ed0629b/public_url" title="View credential" target="_blank">
+        <img src="./badges/clf.png" alt="AWS Certified Cloud Practitioner" width="100px"><br>
+        <sub><b>AWS Certified Cloud Practitioner</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
