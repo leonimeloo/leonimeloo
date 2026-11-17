@@ -1,6 +1,6 @@
 #  Hi there 👋
 
-**`Software Engineering | Cloud Application Architect | 5x AWS Certified`**
+**`Software Engineering | Cloud Application Architect | 6x AWS Certified`**
 
 I'm Leoni, a Cloud Application Architect and Software Engineer focused on designing and developing scalable cloud solutions. I help large organizations adopt cloud technologies, modernize their applications, and build reliable digital products — especially solutions powered by Generative AI.
 
@@ -20,6 +20,12 @@ I'm also an undergraduate student in Computer Science at the Federal University 
 
 <table>
   <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/229a36f7-8460-4178-be8e-a03be715dd07/public_url" title="View credential" target="_blank">
+        <img src="./badges/soa.png" alt="AWS Certified CloudOps Engineer – Associate" width="100px"><br>
+        <sub><b>AWS Certified CloudOps Engineer – Associate</b></sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.credly.com/badges/ede51498-f030-46e0-ba9a-2148aacc46f1/public_url" title="View credential" target="_blank">
         <img src="./badges/dva.png" alt="AWS Certified Developer - Associate" width="100px"><br>
